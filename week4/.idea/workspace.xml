@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b4bb4be7-28a8-45d0-925f-692873d93b6d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ZcP2txDXkjw2ditkSwPMziTti5" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="show.inlinked.gradle.project.popup" value="false" />
+  </component>
+  <component name="RunManager" selected="Gradle.TestGameBoard">
+    <configuration name="TestGameBoard" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;board.TestGameBoard&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":Board-Task:cleanTest" />
+            <option value=":Board-Task:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="TestRationals" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;rationals.TestRationals&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":Rationals-Task:cleanTest" />
+            <option value=":Rationals-Task:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="TestSquareBoard" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;board.TestSquareBoard&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":Board-Task:cleanTest" />
+            <option value=":Board-Task:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="RationalKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="Rationals-Task_main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="rationals.RationalKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.TestGameBoard" />
+        <item itemvalue="Gradle.TestSquareBoard" />
+        <item itemvalue="Gradle.TestRationals" />
+        <item itemvalue="Kotlin.RationalKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4bb4be7-28a8-45d0-925f-692873d93b6d" name="Default Changelist" comment="" />
+      <created>1585135206008</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585135206008</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="760" y="272" width="442" height="569" key="#com.intellij.ide.util.MemberChooser" timestamp="1585155133066">
+      <screen x="52" y="27" width="1868" height="1053" />
+    </state>
+    <state x="760" y="272" width="442" height="569" key="#com.intellij.ide.util.MemberChooser/52.27.1868.1053@52.27.1868.1053" timestamp="1585155133066" />
+    <state width="1822" height="399" key="GridCell.Tab.0.bottom" timestamp="1585160278949">
+      <screen x="52" y="27" width="1868" height="1053" />
+    </state>
+    <state width="1822" height="399" key="GridCell.Tab.0.bottom/52.27.1868.1053@52.27.1868.1053" timestamp="1585160278949" />
+    <state width="1822" height="399" key="GridCell.Tab.0.center" timestamp="1585160278949">
+      <screen x="52" y="27" width="1868" height="1053" />
+    </state>
+    <state width="1822" height="399" key="GridCell.Tab.0.center/52.27.1868.1053@52.27.1868.1053" timestamp="1585160278949" />
+    <state width="1822" height="399" key="GridCell.Tab.0.left" timestamp="1585160278948">
+      <screen x="52" y="27" width="1868" height="1053" />
+    </state>
+    <state width="1822" height="399" key="GridCell.Tab.0.left/52.27.1868.1053@52.27.1868.1053" timestamp="1585160278948" />
+    <state width="1822" height="399" key="GridCell.Tab.0.right" timestamp="1585160278949">
+      <screen x="52" y="27" width="1868" height="1053" />
+    </state>
+    <state width="1822" height="399" key="GridCell.Tab.0.right/52.27.1868.1053@52.27.1868.1053" timestamp="1585160278949" />
+    <state x="650" y="252" key="run.anything.popup" timestamp="1585143106772">
+      <screen x="52" y="27" width="1868" height="1053" />
+    </state>
+    <state x="650" y="252" key="run.anything.popup/52.27.1868.1053@52.27.1868.1053" timestamp="1585143106772" />
+    <state x="649" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1585143179210">
+      <screen x="52" y="27" width="1868" height="1053" />
+    </state>
+    <state x="649" y="259" width="672" height="678" key="search.everywhere.popup/52.27.1868.1053@52.27.1868.1053" timestamp="1585143179210" />
+  </component>
+</project>

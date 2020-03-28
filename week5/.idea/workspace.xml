@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bf655ec9-5f1c-4e64-9719-8fb4070adbe2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ZirQWUTX0aBErs1jkCscpBGtt7" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="show.inlinked.gradle.project.popup" value="false" />
+  </component>
+  <component name="RunManager" selected="Gradle.TestGameOfFifteen">
+    <configuration name="TestGameOfFifteen" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;games.gameOfFifteen.TestGameOfFifteen&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":Games-Task:cleanTest" />
+            <option value=":Games-Task:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="TestGameOfFifteenHelper" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;games.gameOfFifteen.TestGameOfFifteenHelper&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":Games-Task:cleanTest" />
+            <option value=":Games-Task:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="TestGameOfFifteenInitializer" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;games.gameOfFifteen.TestGameOfFifteenInitializer&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":Games-Task:cleanTest" />
+            <option value=":Games-Task:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="TestMoveValues" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;games.game2048.TestMoveValues&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":Games-Task:cleanTest" />
+            <option value=":Games-Task:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="TestMoveValuesInRowOrColumn" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;games.game2048.TestMoveValuesInRowOrColumn&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":Games-Task:cleanTest" />
+            <option value=":Games-Task:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.TestGameOfFifteen" />
+        <item itemvalue="Gradle.TestGameOfFifteenInitializer" />
+        <item itemvalue="Gradle.TestGameOfFifteenHelper" />
+        <item itemvalue="Gradle.TestMoveValues" />
+        <item itemvalue="Gradle.TestMoveValuesInRowOrColumn" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf655ec9-5f1c-4e64-9719-8fb4070adbe2" name="Default Changelist" comment="" />
+      <created>1585332739606</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585332739606</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="760" y="272" width="442" height="569" key="#com.intellij.ide.util.MemberChooser" timestamp="1585392178299">
+      <screen x="52" y="27" width="1868" height="1053" />
+    </state>
+    <state x="760" y="272" width="442" height="569" key="#com.intellij.ide.util.MemberChooser/52.27.1868.1053@52.27.1868.1053" timestamp="1585392178299" />
+    <state width="1822" height="353" key="GridCell.Tab.0.bottom" timestamp="1585392840598">
+      <screen x="52" y="27" width="1868" height="1053" />
+    </state>
+    <state width="1822" height="353" key="GridCell.Tab.0.bottom/52.27.1868.1053@52.27.1868.1053" timestamp="1585392840598" />
+    <state width="1822" height="353" key="GridCell.Tab.0.center" timestamp="1585392840597">
+      <screen x="52" y="27" width="1868" height="1053" />
+    </state>
+    <state width="1822" height="353" key="GridCell.Tab.0.center/52.27.1868.1053@52.27.1868.1053" timestamp="1585392840597" />
+    <state width="1822" height="353" key="GridCell.Tab.0.left" timestamp="1585392840597">
+      <screen x="52" y="27" width="1868" height="1053" />
+    </state>
+    <state width="1822" height="353" key="GridCell.Tab.0.left/52.27.1868.1053@52.27.1868.1053" timestamp="1585392840597" />
+    <state width="1822" height="353" key="GridCell.Tab.0.right" timestamp="1585392840597">
+      <screen x="52" y="27" width="1868" height="1053" />
+    </state>
+    <state width="1822" height="353" key="GridCell.Tab.0.right/52.27.1868.1053@52.27.1868.1053" timestamp="1585392840597" />
+  </component>
+</project>

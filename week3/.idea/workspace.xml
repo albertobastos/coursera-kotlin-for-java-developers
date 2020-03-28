@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e3f8713e-0580-451c-9282-dcc231073ad9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ZJAM7g9Y8DCE8lxiGsHEoi1G3t" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="show.inlinked.gradle.project.popup" value="false" />
+  </component>
+  <component name="RunManager" selected="Gradle.TestTask6ParetoPrinciple">
+    <configuration name="TestTask2FaithfulPassengers" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;taxipark.TestTask2FaithfulPassengers&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":Taxi_Park-Task:cleanTest" />
+            <option value=":Taxi_Park-Task:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="TestTask3FrequentPassengers" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;taxipark.TestTask3FrequentPassengers&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":Taxi_Park-Task:cleanTest" />
+            <option value=":Taxi_Park-Task:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="TestTask4SmartPassengers" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;taxipark.TestTask4SmartPassengers&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":Taxi_Park-Task:cleanTest" />
+            <option value=":Taxi_Park-Task:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="TestTask5TheMostFrequentTripDurationPeriod" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;taxipark.TestTask5TheMostFrequentTripDurationPeriod&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":Taxi_Park-Task:cleanTest" />
+            <option value=":Taxi_Park-Task:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="TestTask6ParetoPrinciple" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;taxipark.TestTask6ParetoPrinciple&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":Taxi_Park-Task:cleanTest" />
+            <option value=":Taxi_Park-Task:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.TestTask6ParetoPrinciple" />
+        <item itemvalue="Gradle.TestTask5TheMostFrequentTripDurationPeriod" />
+        <item itemvalue="Gradle.TestTask4SmartPassengers" />
+        <item itemvalue="Gradle.TestTask3FrequentPassengers" />
+        <item itemvalue="Gradle.TestTask2FaithfulPassengers" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e3f8713e-0580-451c-9282-dcc231073ad9" name="Default Changelist" comment="" />
+      <created>1584546772986</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584546772986</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="152" y="127" width="1668" height="853" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1584560087037">
+      <screen x="52" y="27" width="1868" height="1053" />
+    </state>
+    <state x="152" y="127" width="1668" height="853" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/52.27.1868.1053@52.27.1868.1053" timestamp="1584560087037" />
+    <state width="888" height="296" key="GridCell.Tab.0.bottom" timestamp="1584728403226">
+      <screen x="52" y="27" width="1868" height="1053" />
+    </state>
+    <state width="888" height="296" key="GridCell.Tab.0.bottom/52.27.1868.1053@52.27.1868.1053" timestamp="1584728403226" />
+    <state width="888" height="296" key="GridCell.Tab.0.center" timestamp="1584728403226">
+      <screen x="52" y="27" width="1868" height="1053" />
+    </state>
+    <state width="888" height="296" key="GridCell.Tab.0.center/52.27.1868.1053@52.27.1868.1053" timestamp="1584728403226" />
+    <state width="888" height="296" key="GridCell.Tab.0.left" timestamp="1584728403226">
+      <screen x="52" y="27" width="1868" height="1053" />
+    </state>
+    <state width="888" height="296" key="GridCell.Tab.0.left/52.27.1868.1053@52.27.1868.1053" timestamp="1584728403226" />
+    <state width="888" height="296" key="GridCell.Tab.0.right" timestamp="1584728403226">
+      <screen x="52" y="27" width="1868" height="1053" />
+    </state>
+    <state width="888" height="296" key="GridCell.Tab.0.right/52.27.1868.1053@52.27.1868.1053" timestamp="1584728403226" />
+    <state width="1822" height="340" key="GridCell.Tab.1.bottom" timestamp="1584561523747">
+      <screen x="52" y="27" width="1868" height="1053" />
+    </state>
+    <state width="1822" height="340" key="GridCell.Tab.1.bottom/52.27.1868.1053@52.27.1868.1053" timestamp="1584561523747" />
+    <state width="1822" height="340" key="GridCell.Tab.1.center" timestamp="1584561523746">
+      <screen x="52" y="27" width="1868" height="1053" />
+    </state>
+    <state width="1822" height="340" key="GridCell.Tab.1.center/52.27.1868.1053@52.27.1868.1053" timestamp="1584561523746" />
+    <state width="1822" height="340" key="GridCell.Tab.1.left" timestamp="1584561523745">
+      <screen x="52" y="27" width="1868" height="1053" />
+    </state>
+    <state width="1822" height="340" key="GridCell.Tab.1.left/52.27.1868.1053@52.27.1868.1053" timestamp="1584561523745" />
+    <state width="1822" height="340" key="GridCell.Tab.1.right" timestamp="1584561523746">
+      <screen x="52" y="27" width="1868" height="1053" />
+    </state>
+    <state width="1822" height="340" key="GridCell.Tab.1.right/52.27.1868.1053@52.27.1868.1053" timestamp="1584561523746" />
+    <state x="650" y="252" width="672" height="677" key="run.anything.popup" timestamp="1584685228269">
+      <screen x="52" y="27" width="1868" height="1053" />
+    </state>
+    <state x="650" y="252" width="672" height="677" key="run.anything.popup/52.27.1868.1053@52.27.1868.1053" timestamp="1584685228269" />
+    <state x="649" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1584595034714">
+      <screen x="52" y="27" width="1868" height="1053" />
+    </state>
+    <state x="649" y="259" width="672" height="678" key="search.everywhere.popup/52.27.1868.1053@52.27.1868.1053" timestamp="1584595034714" />
+  </component>
+</project>
